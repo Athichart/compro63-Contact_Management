@@ -22,4 +22,4 @@ Project Contact Management
 #include<dos.h>
 
 ใช้ switch ในการเลือกการทํางานเป็น case ไป
-เก็บข้อมูลที่ใส่เข้าไปอาจะเป็น .dll หรือ .txt
+การเก็บข้อมูลที่ใส่เข้าไปอาจะเป็น .dll หรือ .txt
