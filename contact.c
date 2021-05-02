@@ -14,7 +14,7 @@ struct contact
 
 char namefind[30],name[30];
 FILE *fp, *ft;
-int i,n,ch,l,found;
+int i,n,ch,length,found;
 
 int main(){
 
