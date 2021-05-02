@@ -100,14 +100,14 @@ main:
         do{
             found = 0;
             printf("\n\n\t<--CONTACT SEARCH-->\n");
-            printf("\t===========================\n");
+            printf("\t***************************\n");
             printf("\t:Name of contact to search: ");
             fflush(stdin);
             scanf("%[^\n]", &namefind);
             length=strlen(namefind);
             fp=fopen("contact.txt","r");
             system("cls");
-            printf("\n\n:Search result for '%s': \n===================================================\n",namefind);
+            printf("\n\n:Search result for '%s': \n***************************************************\n",namefind);
             while(fread(&list, sizeof(list),1,fp)==1)
             {
                 for (i=0; i<=length; i++)
@@ -116,7 +116,7 @@ main:
                 name[length] = '\0';
                 if (stricmp(name, namefind)== 0)
                 {
-                    printf("\n:Name\t: %s\n:Phone\t: %ld\n:Address\t: %s\n:Email\t: %s\n",list.name,list.phone,list.add,list.email);
+                    printf("\n:Name:\t %s\n:Phone:\t %ld\n:Address:\t %s\n:Email:\t %s\n",list.name,list.phone,list.add,list.email);
                     found++;
                     if (found%4==0)
                     {
@@ -149,7 +149,7 @@ main:
         fflush(stdin);
 
         printf("Edit contact\n");
-        printf("-------------------------------\n\n");
+        printf("********************************\n\n");
         printf("\t:Enter the name of contact to edit:");
 
         scanf("%[^\n]",name);
@@ -208,7 +208,7 @@ main:
 
         system("cls");
         fflush(stdin);
-        printf("\n\n\t DELETE A CONTACT\n\t--------------------------\n\t *Enter the name of contact to delete:");
+        printf("\n\n\t DELETE A CONTACT\n\t**************************\n\t *Enter the name of contact to delete:");
         scanf("%[^\n]", &name);
         fp = fopen("contact.dll", "r");
         ft = fopen("temp.dat", "w");
