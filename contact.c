@@ -149,7 +149,7 @@ main:
         fflush(stdin);
 
         printf("Edit contact\n");
-        printf("===============================\n\n");
+        printf("-------------------------------\n\n");
         printf("\t:Enter the name of contact to edit:");
 
         scanf("%[^\n]",name);
