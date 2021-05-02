@@ -17,7 +17,8 @@ FILE *fp, *ft;
 int i,n,ch,l,found;
 
 int main(){
-    main:
+
+main:
     // Creating Main Menu Interface krub
     system("cls");    
     printf("\n\t <<< Contact Management System by GFKK >>>");
@@ -29,8 +30,37 @@ int main(){
     case 0:
         printf("\n\n\t\tDo you want to exit?");
         break;
+    // Add function
+    case 1:
+        system("cls");
+
+        fp=fopen("contact.txt","a");
+        for (;;)
+        {
+            fflush(stdin);
+            printf("To exit enter blank space in the name input\nName (Use identical):");
+            scanf("%[^\n]",&list.name);
+            if(stricmp(list.name,"")==0 || stricmp(list.name," ")==0)
+            break;
+            fflush(stdin);
+            printf("Phone:");
+            scanf("%ld",&list.ph);
+            fflush(stdin);
+            printf("Address:");
+            scanf("%[^\n]",&list.add);
+            fflush(stdin);
+            printf("Email address:");
+            gets(list.email);
+            printf("\n");
+            fwrite(&list,sizeof(list),1,fp);
+        }
+        fclose(fp);
+        break;
+
+
     default:
         printf("Invalid Choice");
         break;
     }
-{
+}
+
