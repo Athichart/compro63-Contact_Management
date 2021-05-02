@@ -33,7 +33,6 @@ main:
     // Add function
     case 1:
         system("cls");
-
         fp=fopen("contact.txt","a");
         for (;;)
         {
