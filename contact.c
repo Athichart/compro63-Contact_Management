@@ -24,4 +24,10 @@ int main(){
     printf("\n\n\t\t\tM-E-N-U\n\t\t<+-+-+-+-+-+-+-+-+-+>\n\t\t[1] Add\n\t\t[2] List all\n\t\t[3] Search\n\t\t[4] Edit\n\t\t[5] Delete\n\t\t[0] Exit\n\t\t<+-+-+-+-+-+-+-+-+-+>\n\t\t");
     printf("Enter number: ");
     scanf("%d",&ch);
+    switch(ch)
+    {
+    case 0:
+        printf("\n\n\t\tDo you want to exit?");
+        break;
+    }
 {
