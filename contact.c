@@ -227,5 +227,19 @@ main:
         printf("Invalid Choice");
         break;
     }
+    printf("\n\n\n-->Enter Choice:\n\n\t[1] Main Menu\t\t[0] Exit\n");
+    // run main or break na krub
+    scanf("\t\t%d",&ch);
+    switch (ch)
+    {
+    case 1:
+        goto main;
+    case 0:
+        break;
+    default:
+        printf("Invalid choice");
+        break;
+    }
+    return 0;
 }
 
