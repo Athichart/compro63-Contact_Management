@@ -68,7 +68,7 @@ main:
         system("cls");
         printf("\n\t\t--------------------------------\n");
         printf("\t\t\tLIST OF CONTACTS\n");
-        printf("\t\t================================\n");
+        printf("\t\t--------------------------------\n");
         printf("\nName\t\tPhone No\t    Address\t\tE-mail ad.\n");
         printf("-----------------------------------------------------------------\n\n");
         for(i=97; i<=122; i=i+1)//usefor %c toshow 
