@@ -29,5 +29,8 @@ int main(){
     case 0:
         printf("\n\n\t\tDo you want to exit?");
         break;
+    default:
+        printf("Invalid Choice");
+        break;
     }
 {
