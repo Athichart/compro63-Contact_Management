@@ -8,11 +8,11 @@
 // Creating Struct to store data krub
 struct contact
 {
-    long ph;
-    char name[20],add[20],email[30];
+    long phone;
+    char name[30],add[100],email[60];
 } list;
 
-char query[20],name[20];
+char namefind[30],name[30];
 FILE *fp, *ft;
 int i,n,ch,l,found;
 
@@ -22,8 +22,16 @@ main:
     // Creating Main Menu Interface krub
     system("cls");    
     printf("\n\t <<< Contact Management System by GFKK >>>");
-    printf("\n\n\t\t\tM-E-N-U\n\t\t<+-+-+-+-+-+-+-+-+-+>\n\t\t[1] Add\n\t\t[2] List all\n\t\t[3] Search\n\t\t[4] Edit\n\t\t[5] Delete\n\t\t[0] Exit\n\t\t<+-+-+-+-+-+-+-+-+-+>\n\t\t");
-    printf("Enter number: ");
+    printf("\n\n\t\t\tM-E-N-U\n");
+    printf("\t\t<+-+-+-+-+-+-+-+-+-+>\n");
+    printf("\t\t[1] Add\n");
+    printf("\t\t[2] List all\n");
+    printf("\t\t[3] Search\n");
+    printf("\t\t[4] Edit\n");
+    printf("\t\t[5] Delete\n");
+    printf("\t\t[0] Exit\n");
+    printf("\t\t<+-+-+-+-+-+-+-+-+-+>\n");
+    printf("\t\tEnter number: ");
     scanf("%d",&ch);
     switch(ch)
     {
@@ -43,7 +51,7 @@ main:
             break;
             fflush(stdin);
             printf("Phone:");
-            scanf("%ld",&list.ph);
+            scanf("%ld",&list.phone);
             fflush(stdin);
             printf("Address:");
             scanf("%[^\n]",&list.add);
