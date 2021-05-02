@@ -6,6 +6,7 @@ Project Contact Management
 2.ลบรายชื่อผู้ติดต่อ
 3.เเก้ไขรายชื่อ
 4.ค้นหารายชื่อ
+5.เเสดงรายชื่อทั้งหมดที่เก็บไว้
 
 ใช้ Header file ต่างๆ ดังนี้
 #include<stdio.h>
@@ -19,3 +20,5 @@ Project Contact Management
 #include<stdlib.h>
 
 #include<dos.h>
+
+ใช้ switch ในการเลือกการทํางานเป็น case ไป
