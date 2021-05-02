@@ -37,7 +37,7 @@ main:
         for (;;)
         {
             fflush(stdin);
-            printf("To exit enter blank space in the name input\nName (Use identical):");
+            printf("To exit enter blank space\nName:");
             scanf("%[^\n]",&list.name);
             if(stricmp(list.name,"")==0 || stricmp(list.name," ")==0)
             break;
