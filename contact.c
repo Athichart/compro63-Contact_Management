@@ -20,12 +20,12 @@ main:
     printf("\n\t <<< Contact Management System by GFKK >>>");
     printf("\n\n\t\t\tM-E-N-U\n");
     printf("\t\t<+-+-+-+-+-+-+-+-+-+>\n");
-    printf("\t\t[1] Add\n");
-    printf("\t\t[2] List all\n");
-    printf("\t\t[3] Search\n");
-    printf("\t\t[4] Edit\n");
-    printf("\t\t[5] Delete\n");
-    printf("\t\t[0] Exit\n");
+    printf("\t\t<1> Add\n");
+    printf("\t\t<2> List all\n");
+    printf("\t\t<3> Search\n");
+    printf("\t\t<4> Edit\n");
+    printf("\t\t<5> Delete\n");
+    printf("\t\t<0> Exit\n");
     printf("\t\t<+-+-+-+-+-+-+-+-+-+>\n");
     printf("\t\tEnter number: ");
     scanf("%d",&ch);
