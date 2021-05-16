@@ -16,3 +16,6 @@ Computer Programming Project KMITL Semester 2/2020 1st Year
 ## วิดีโอนำเสนอ
 [Video Presentation](https://www.youtube.com/watch?v=NDe-3nXUXG4)
 ## โปสเตอร์
+[Poster (download)](https://drive.google.com/uc?export=download&id=1wkT-e7K-fvn7Vo5j8DtxEvxGOONF_GIc)
+> 
+![Poster (download)](poster/poster.jpg)
