@@ -200,11 +200,30 @@ main:
         rename("temp.dat","contact.txt");
 
         break;            
+    case 5:
+        system("cls");
+        fflush(stdin);
+        printf("\n\n\tDelete contact\n\t==========================\n\tEnter name to delete:");
+        scanf("%[^\n]", &name);
+        fp = fopen("contact.txt", "r");
+        ft = fopen("temp.dat", "w");
+        while(fread(&list,sizeof(list),1,fp)!=0)
+            if (stricmp(name,list.name)!=0)
+                fwrite(&list,sizeof(list),1,ft);
+        fclose(fp);
+        fclose(ft);
+        remove("contact.txt");
+        rename("temp.dat","contact.txt");
+        break;
 
+    
     default:
         printf("Invalid Choice");
         break;
     }
+    
+
+    
     printf("\n\n\nEnter Choice:\n\n\t[1] Main Menu\t\t[0] Exit\n");
 
     // run main or break na krub
