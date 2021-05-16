@@ -15,6 +15,8 @@ Computer Programming Project KMITL Semester 2/2020 1st Year
 
 ## วิดีโอนำเสนอ
 [Video Presentation](https://www.youtube.com/watch?v=NDe-3nXUXG4)
+---
+![Poster](https://www.youtube.com/watch?v=NDe-3nXUXG4)
 ## โปสเตอร์
 [Poster (download)](https://github.com/63070158/compro63-Contact_Management/blob/main/poster_contact.jpg)
 ---
