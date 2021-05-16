@@ -26,7 +26,7 @@ Computer Programming Project KMITL Semester 2/2020 1st Year
 
 | รหัสนักศึกษา | ชื่อ - นามสกุล | Github |
 | :--------: | :--------: | :---------: |
-|   62070009   |   นายกิตติพจน์ กิตสุภาพสิริกุล   |   [ทิ้งเพื่อนไปคอลกับสาว](https://github.com/kkit2001)   |
+|   62070009   |   นายกิตติพจน์ กิตสุภาพสิริกุล   |   [Kittipod](https://github.com/kkit2001)   |
 |   63070158   |   นายวิศัลย์ สุวรรณรัตน์   |  [Visal](https://github.com/63070158)   |
-|   63070165   |   นายศราวุธ อุนารัตน์   |   [เกมหงิง](https://github.com/Sarawutgame)   |
+|   63070165   |   นายศราวุธ อุนารัตน์   |   [Sarawut](https://github.com/Sarawutgame)   |
 |   63070181   |   นายอธิชาติ ชูศรี   |   [Athichart](https://github.com/Athichart)   |
