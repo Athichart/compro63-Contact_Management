@@ -25,7 +25,7 @@ Computer Programming Project KMITL Semester 2/2020 1st Year
 
 | รหัสนักศึกษา | ชื่อ - นามสกุล | Github |
 | :--------: | :--------: | :---------: |
-|   62070009   |   นายกิตติพจน์ กิตสุภาพสิริกุล   |   [prcyyy](https://github.com/prcyyy)   |
-|   63070158   |   นายวิศัลย์ สุวรรณรัตน์   |  [FFF](https://github.com/63070158)   |
-|   63070165   |   นายศราวุธ อุนารัตน์   |   [Nutthidapops_](https://github.com/63070052)   |
+|   62070009   |   นายกิตติพจน์ กิตสุภาพสิริกุล   |   [ทิ้งเพื่อนไปคอลกับสาว](https://github.com/prcyyy)   |
+|   63070158   |   นายวิศัลย์ สุวรรณรัตน์   |  [Visal](https://github.com/63070158)   |
+|   63070165   |   นายศราวุธ อุนารัตน์   |   [เกมหงิง](https://github.com/63070052)   |
 |   63070181   |   นายอธิชาติ ชูศรี   |   [Athichart](https://github.com/Athichart)   |
