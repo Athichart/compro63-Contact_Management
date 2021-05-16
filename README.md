@@ -12,6 +12,7 @@ Computer Programming Project KMITL Semester 2/2020 1st Year
 5. เมื่อทำงานเสร็จสิ้นเเล้วสามารถนําความรู้ที่ได้รับมาไปต่อยอดต่อได้
 ## ประโยชน์ที่คาดว่าจะได้รับ
 ## เว็บไซต์
+[web](https://silly-hugle-2e1591.netlify.app)
 
 ## วิดีโอนำเสนอ
 [Video Presentation](https://www.youtube.com/watch?v=NDe-3nXUXG4)
