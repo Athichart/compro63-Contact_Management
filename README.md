@@ -19,4 +19,13 @@ Computer Programming Project KMITL Semester 2/2020 1st Year
 [Poster (download)](https://github.com/63070158/compro63-Contact_Management/blob/main/poster_contact.jpg)
 ---
 ![Poster](https://github.com/63070158/compro63-Contact_Management/blob/main/poster_contact.jpg)
+---
+สมาชิก
+---
 
+| รหัสนักศึกษา | ชื่อ - นามสกุล | Github |
+| :-------- | :-------- | :--------- |:--------- |
+|   62070009   |   นายกิตติพจน์ กิตสุภาพสิริกุล   |   [prcyyy](https://github.com/prcyyy)   |
+|   63070158   |   นายวิศัลย์ สุวรรณรัตน์   |  [nutcha20](https://github.com/nutcha20)   |
+|   63070165   |   นายศราวุธ อุนารัตน์   |   [Nutthidapops_](https://github.com/63070052)   |
+|   63070181   |   นายอธิชาติ ชูศรี   |   [Pimchanok119](https://github.com/Pimchanok119)   |
