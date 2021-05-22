@@ -18,7 +18,7 @@ Computer Programming Project KMITL Semester 2/2020 1st Year
 3. ได้ฝึกการทํางานร่วมกันเป็นทีม
 4. ได้ฝึกวางเเผนการทํางานและการแบ่งงานภายในทีม
 ## เว็บไซต์
-[Go to our webiste](https://silly-hugle-2e1591.netlify.app)
+[Visit to our webiste](https://silly-hugle-2e1591.netlify.app)
 
 ## วิดีโอนำเสนอ
 [Video Presentation](https://www.youtube.com/watch?v=NDe-3nXUXG4)
